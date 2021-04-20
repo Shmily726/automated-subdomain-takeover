@@ -12,3 +12,6 @@ meituan.net
 meituan.com
 wandie.com
 zuitu.com
+toutiao.com
+douyin.com
+tuchong.com
