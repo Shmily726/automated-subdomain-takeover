@@ -1,1 +1,24 @@
 
+admin.neixin.cn
+api.neixin.cn
+co.neixin.cn
+e.mtyun.com
+file.neixin.cn
+i.neixin.cn
+mp.neixin.cn
+mtyun.com
+neixin.cn
+oa.neixin.cn
+pan.neixin.cn
+pc.neixin.cn
+preview.neixin.cn
+qa.neixin.cn
+share.neixin.cn
+st.neixin.cn
+static.mtyun.com
+travel.mtyun.com
+wss.neixin.cn
+www.mtyun.com
+www.neixin.cn
+www.static.mtyun.com
+xm.st.neixin.cn
